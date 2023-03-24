@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maksim</h1>
 <h3 align="center">A passionate web developer from Minsk</h3>
 
-- 🔭 I’m currently working on [start-trading](https://github.com/Tvoncher/start-trading)
+- 🔭 I’m currently working on [Blackjack](https://github.com/Tvoncher/blackjack)
 
-- 🌱 I’m currently learning **React.js,Next.js**
+- 🌱 I’m currently learning **React.js,Babylon.js**
 
 - 📫 How to reach me **tvincher@mail.ru**
 

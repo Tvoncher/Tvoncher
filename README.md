@@ -8,7 +8,7 @@
 - 📫 How to reach me **tvincher@mail.ru**
 
 <p align="center">
-   <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://github.com/Tvoncher/Tvoncher/assets/116438158/cb50374f-9862-4963-a2db-03108ed02f32)" alt="Sublime's custom image"/>
+   <img src="https://github.com/Tvoncher/Tvoncher/assets/116438158/cb50374f-9862-4963-a2db-03108ed02f32" alt="img"/>
 </p>
 
 
